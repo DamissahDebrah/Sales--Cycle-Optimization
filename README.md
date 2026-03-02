@@ -12,7 +12,7 @@ This project analyzes consistentency and efficency in sales cost compared to Rev
 - Sales Cycle Optimization
 - Monitor cost efficency.
 - Review Marketing startegy where needed.
-- 
+  
 
 
 ##  Tools & Technologies
@@ -21,27 +21,29 @@ This project analyzes consistentency and efficency in sales cost compared to Rev
 
 
 ## Key Insights
--Business is Profitable Most Months
- .Revenue is consistently higher than marketing cost.
- .Example: May 2024 → Revenue ₦10.09M vs Cost ₦0.89M (11x return).
--Marketing Spend is Generally Effective
+- Business is profitable in Most Months ,Revenue is consistently higher than marketing cost.
+  .Example: May 2024 → Revenue ₦10.09M vs Cost ₦0.89M (11x return).
+- Sales spend is efficent 
  .Every ₦1 spent on marketing is generating multiple times in revenue.
  .Typical return: 4x to 11x cost.
--Performance Varies Month-to-Month
- .Some months show lower efficiency.
- .Example: January 2025 → Revenue ₦3.87M vs Cost ₦0.81M (4.7x return).
--Marketing Costs Are Rising in Some Periods
- .Example: October 2024 → ₦1.57M, March 2025 → ₦1.77M.
- .Without proportional revenue growth, profit margins may shrink.)
 
+- Performance Varies Month-to-Month .Some months show lower efficiency.
+  .Example: January 2025 → Revenue ₦3.87M vs Cost ₦0.81M (4.7x return).
+
+- Marketing Costs Are Rising in Some Periods
+  .Example: October 2024 → ₦1.57M, March 2025 → ₦1.77M.
+  .Without proportional revenue growth, profit margins may shrink.)
+
+---
 ## Recommendations
-Marketing is working and profitable.
-Focus on optimizing campaigns in lower-performing months to improve consistency.
-Monitor cost-to-revenue ratio monthly to maintain healthy profit margins.
+- Sales cycle cost is working and profitable.  
+- Focus should be on optimizing campaigns in lower-performing months to improve consistency in the cylce.
+- Monitor cost-to-revenue ratio monthly to maintain healthy profit margins.
+
 
 ---
 ##  Business Impact
-This analysis enables the markting team to :  
+##  This analysis enables the markting team to :  
 -Replicate high-performing campaigns – Identify the best revenue months and standardize the targeting, creatives, and offers that worked.
 
 -Track and control CAC monthly – Monitor Cost per Lead, Cost per Student, and Conversion Rate; pause or adjust campaigns when efficiency drops.
@@ -60,7 +62,7 @@ This analysis enables the markting team to :
 [Download the Interactive Power BI Dashboard]()
 
 ## Conclusion
-The analysis tells us that the revenue generated is 10x the sales cost but also shows inconsistency in cost efficiency and also low optimaztion in some months .
+The analysis tells us that the revenue generated is 10x the sales cost but also shows inconsistency in cost efficiency and also low sales optimaztion in some months and this shoild be a concern for the maketing team.
 
 ## 📬 Contact  
 - **GitHub:** [https://github.com/DamissahDebrah]  
