@@ -37,7 +37,7 @@ This project analyzes consistentency and efficency in sales cost compared to Rev
 ---
 ## Recommendations
 - Sales cycle cost is working and profitable.  
-- Focus should be on optimizing campaigns in lower-performing months to improve consistency in the cylce.
+- Focus should be on optimizing campaigns in lower-performing months to improve consistency in cost efficeincy
 - Monitor cost-to-revenue ratio monthly to maintain healthy profit margins.
 
 
@@ -62,10 +62,10 @@ This project analyzes consistentency and efficency in sales cost compared to Rev
 [Download the Interactive Power BI Dashboard]()
 
 ## Conclusion
-The analysis tells us that the revenue generated is 10x the sales cost but also shows inconsistency in cost efficiency and also low sales optimaztion in some months and this shoild be a concern for the maketing team.
+The analysis tells us that the academy is profitable, but marketing efficiency is inconsistent and if not monitored would shring profit eventualy leading to sero susttainability for the business . Also Scaling should be data-driven, not budget-driven.
 
-## 📬 Contact  
-- **GitHub:** [https://github.com/DamissahDebrah]  
+---
+
 - **LinkedIn:** [https://www.linkedin.com/in/okodugha-debrah-9b29307b/]  
 - **Email:** [damissahdeborah@gmail.com]  
 
