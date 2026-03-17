@@ -57,7 +57,11 @@ This project analyzes consistentency and efficency in sales cost compared to Rev
 ---
 
 ## 📌 Dashboard Preview
-[View Dashboard Here]()
+[View Dashboard Here](https://github.com/DamissahDebrah/Sales--Cycle-Optimization/blob/main/Sales%20Optimization%20Report%202.png)
+
+[View Dashboard Here](https://github.com/DamissahDebrah/Sales--Cycle-Optimization/blob/main/Sales%20Optimaization%20Report.png)
+
+
 
 [Download the Interactive Power BI Dashboard]()
 
